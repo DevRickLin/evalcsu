@@ -103,52 +103,47 @@ EvalCSU 建立的目的是为了帮助你节省时间，更好、更快地掌握
 
 **核心贡献者**
 
-<div class="contributor-table">
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/64075563?s=120&v=4"  alt=""/><sub><b>Jacob953</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/74520253?s=120&v=4"  alt=""/><sub><b>Rick Lin</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/72350550?s=120&v=4"  alt=""/><sub><b>jzndd</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/65447998?s=120&v=4"  alt=""/><sub><b>LegendZi</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/58100940?s=120&v=4"  alt=""/><sub><b>Aiden927</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/73345205?s=120&v=4"  alt=""/><sub><b>NIUYI0511</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/67886875?s=120&v=4"  alt=""/><sub><b>fallme</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/63188873?s=120&v=4"  alt=""/><sub><b>Yemonade</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/72395679?s=120&v=4"  alt=""/><sub><b>tangent-heng</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/57822495?s=120&v=4"  alt=""/><sub><b>EZ4Chen</b></sub></div>
-</div>
-
-**所有贡献者**
-
-<div  class="contributor-table">
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/63287428?s=120&v=4"  alt=""/><sub><b>DvIkero</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/94861831?s=120&v=4"  alt=""/><sub><b>HanX-gthb</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/72063459?s=120&v=4"  alt=""/><sub><b>Wangbf</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/62288395?s=120&v=4"  alt=""/><sub><b>typedrandomly</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/72177652?s=120&v=4"  alt=""/><sub><b>puzi12138</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/53910152?s=120&v=4"  alt=""/><sub><b>Gstalker</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/60459217?s=120&v=4"  alt=""/><sub><b>M-Chase</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/73117818?s=120&v=4"  alt=""/><sub><b>heyzbw</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/99242280?s=120&v=4"  alt=""/><sub><b>yyyangxy</b></sub></div>
-        <div  class="contributor-div"><img class="contributor-avatar" src="https://avatars.githubusercontent.com/u/97728260?s=120&v=4"  alt=""/><sub><b>Shanewbx</b></sub></div>
-</div>
-
-<style>
-  .contributor-table {
+<div style="
     margin-top:20px;
     margin-bottom:20px;
     display:grid;
     grid-template-columns: repeat(6,100px);
     gap: 10px;
     overflow-y: scroll;
-  }
-  .contributor-div {
-    width: 100px;
-    height: auto;
-  }
-  .contributor-avatar {
-    width: 100px;
-    object-fit: cover;
-  }
-</style>
+  ">
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/64075563?s=120&v=4"  alt=""/><sub><b>Jacob953</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/74520253?s=120&v=4"  alt=""/><sub><b>Rick Lin</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/72350550?s=120&v=4"  alt=""/><sub><b>jzndd</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/65447998?s=120&v=4"  alt=""/><sub><b>LegendZi</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/58100940?s=120&v=4"  alt=""/><sub><b>Aiden927</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/73345205?s=120&v=4"  alt=""/><sub><b>NIUYI0511</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/67886875?s=120&v=4"  alt=""/><sub><b>fallme</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/63188873?s=120&v=4"  alt=""/><sub><b>Yemonade</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/72395679?s=120&v=4"  alt=""/><sub><b>tangent-heng</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/57822495?s=120&v=4"  alt=""/><sub><b>EZ4Chen</b></sub></div>
+</div>
+
+**所有贡献者**
+
+<div style="
+    margin-top:20px;
+    margin-bottom:20px;
+    display:grid;
+    grid-template-columns: repeat(6,100px);
+    gap: 10px;
+    overflow-y: scroll;
+  ">
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/63287428?s=120&v=4"  alt=""/><sub><b>DvIkero</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/94861831?s=120&v=4"  alt=""/><sub><b>HanX-gthb</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/72063459?s=120&v=4"  alt=""/><sub><b>Wangbf</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/62288395?s=120&v=4"  alt=""/><sub><b>typedrandomly</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/72177652?s=120&v=4"  alt=""/><sub><b>puzi12138</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/53910152?s=120&v=4"  alt=""/><sub><b>Gstalker</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/60459217?s=120&v=4"  alt=""/><sub><b>M-Chase</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/73117818?s=120&v=4"  alt=""/><sub><b>heyzbw</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/99242280?s=120&v=4"  alt=""/><sub><b>yyyangxy</b></sub></div>
+        <div  class="contributor-div"><img style="width:100px" src="https://avatars.githubusercontent.com/u/97728260?s=120&v=4"  alt=""/><sub><b>Shanewbx</b></sub></div>
+</div>
 
 ## 4 项目说明
 
