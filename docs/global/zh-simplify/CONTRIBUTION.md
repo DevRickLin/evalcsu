@@ -54,7 +54,7 @@
 1. 进入 Issue 页面点击 `New issue` 按钮
    
   <figure>
-  <img src="../../../img/global/CONTRIBUTION/issue_button.png" alt="New issue 按钮所在的地方"/>
+    <img src="../../../img/global/CONTRIBUTION/issue_button.png" alt="New issue 按钮所在的地方"/>
    <figcaption align="center">Figure 1. New issue 的按钮位置</figcaption>
   </figure>
 
